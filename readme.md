@@ -1,7 +1,7 @@
 ## 图片重命名显示宽高
 
 ```
-$ npm install img_tools -g
+$ npm install dimg_tools -g
 $ imgwh wh -d img
 ```
 
